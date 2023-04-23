@@ -1,0 +1,7 @@
+{
+  "name": "projet4-test-git",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
